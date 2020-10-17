@@ -1,5 +1,5 @@
 [
-  "Fri Oct 16 2020 11:01:51 GMT+0000 (Coordinated Universal Time)",
+  "Sat Oct 17 2020 11:01:37 GMT+0000 (Coordinated Universal Time)",
   {
     "id": 76137532,
     "name": "webapp",
@@ -1463,7 +1463,7 @@
           "github_url": "https://github.com/HackforLABot",
           "avatar_url": "https://avatars0.githubusercontent.com/u/64623632?v=4",
           "gravatar_id": "",
-          "contributions": 226
+          "contributions": 228
         },
         {
           "id": 5952,
@@ -1498,7 +1498,7 @@
           "github_url": "https://github.com/KianBadie",
           "avatar_url": "https://avatars1.githubusercontent.com/u/18221058?v=4",
           "gravatar_id": "",
-          "contributions": 43
+          "contributions": 44
         },
         {
           "id": 1783439,
@@ -1688,7 +1688,7 @@
           "github_url": "https://github.com/KianBadie",
           "avatar_url": "https://avatars1.githubusercontent.com/u/18221058?v=4",
           "gravatar_id": "",
-          "contributions": 215
+          "contributions": 220
         },
         {
           "id": 66918724,
@@ -2378,14 +2378,14 @@
           "github_url": "https://github.com/KianBadie",
           "avatar_url": "https://avatars1.githubusercontent.com/u/18221058?v=4",
           "gravatar_id": "",
-          "contributions": 258
+          "contributions": 264
         },
         {
           "id": 64623632,
           "github_url": "https://github.com/HackforLABot",
           "avatar_url": "https://avatars0.githubusercontent.com/u/64623632?v=4",
           "gravatar_id": "",
-          "contributions": 226
+          "contributions": 228
         },
         {
           "id": 5952,
@@ -8322,14 +8322,14 @@
           "github_url": "https://github.com/nickbeaird",
           "avatar_url": "https://avatars2.githubusercontent.com/u/13891656?v=4",
           "gravatar_id": "",
-          "contributions": 164
+          "contributions": 171
         },
         {
           "id": 11681030,
           "github_url": "https://github.com/OlgaBilogurova",
           "avatar_url": "https://avatars0.githubusercontent.com/u/11681030?v=4",
           "gravatar_id": "",
-          "contributions": 97
+          "contributions": 100
         },
         {
           "id": 50650237,
@@ -8357,7 +8357,7 @@
           "github_url": "https://github.com/alex-anakin",
           "avatar_url": "https://avatars0.githubusercontent.com/u/11644789?v=4",
           "gravatar_id": "",
-          "contributions": 35
+          "contributions": 37
         },
         {
           "id": 11682523,
@@ -8414,6 +8414,13 @@
           "avatar_url": "https://avatars0.githubusercontent.com/in/29110?v=4",
           "gravatar_id": "",
           "contributions": 1
+        },
+        {
+          "id": 55468908,
+          "github_url": "https://github.com/rmpcoding",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/55468908?v=4",
+          "gravatar_id": "",
+          "contributions": 1
         }
       ]
     },
@@ -8424,16 +8431,16 @@
       ],
       "data": [
         {
-          "id": 11682523,
-          "github_url": "https://github.com/clockwerkz",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/11682523?v=4",
-          "gravatar_id": "",
-          "contributions": 30
-        },
-        {
           "id": 19891365,
           "github_url": "https://github.com/switchzer0",
           "avatar_url": "https://avatars3.githubusercontent.com/u/19891365?v=4",
+          "gravatar_id": "",
+          "contributions": 31
+        },
+        {
+          "id": 11682523,
+          "github_url": "https://github.com/clockwerkz",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/11682523?v=4",
           "gravatar_id": "",
           "contributions": 30
         },
@@ -8449,7 +8456,7 @@
           "github_url": "https://github.com/alex-anakin",
           "avatar_url": "https://avatars0.githubusercontent.com/u/11644789?v=4",
           "gravatar_id": "",
-          "contributions": 23
+          "contributions": 24
         },
         {
           "id": 11681030,
@@ -8558,14 +8565,14 @@
           "github_url": "https://github.com/nickbeaird",
           "avatar_url": "https://avatars2.githubusercontent.com/u/13891656?v=4",
           "gravatar_id": "",
-          "contributions": 191
+          "contributions": 198
         },
         {
           "id": 11681030,
           "github_url": "https://github.com/OlgaBilogurova",
           "avatar_url": "https://avatars0.githubusercontent.com/u/11681030?v=4",
           "gravatar_id": "",
-          "contributions": 114
+          "contributions": 117
         },
         {
           "id": 50650237,
@@ -8586,7 +8593,7 @@
           "github_url": "https://github.com/alex-anakin",
           "avatar_url": "https://avatars0.githubusercontent.com/u/11644789?v=4",
           "gravatar_id": "",
-          "contributions": 58
+          "contributions": 61
         },
         {
           "id": 11682523,
@@ -8607,7 +8614,7 @@
           "github_url": "https://github.com/switchzer0",
           "avatar_url": "https://avatars3.githubusercontent.com/u/19891365?v=4",
           "gravatar_id": "",
-          "contributions": 30
+          "contributions": 31
         },
         {
           "id": 1127804,
@@ -8690,6 +8697,13 @@
           "id": 49699333,
           "github_url": "https://github.com/apps/dependabot",
           "avatar_url": "https://avatars0.githubusercontent.com/in/29110?v=4",
+          "gravatar_id": "",
+          "contributions": 1
+        },
+        {
+          "id": 55468908,
+          "github_url": "https://github.com/rmpcoding",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/55468908?v=4",
           "gravatar_id": "",
           "contributions": 1
         },
@@ -9148,7 +9162,7 @@
           "github_url": "https://github.com/shinjonathan",
           "avatar_url": "https://avatars1.githubusercontent.com/u/19783722?v=4",
           "gravatar_id": "",
-          "contributions": 28
+          "contributions": 30
         },
         {
           "id": 37763229,
@@ -9296,7 +9310,14 @@
           "github_url": "https://github.com/apps/codeclimate",
           "avatar_url": "https://avatars0.githubusercontent.com/in/9403?v=4",
           "gravatar_id": "",
-          "contributions": 20
+          "contributions": 21
+        },
+        {
+          "id": 19783722,
+          "github_url": "https://github.com/shinjonathan",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/19783722?v=4",
+          "gravatar_id": "",
+          "contributions": 17
         },
         {
           "id": 65946470,
@@ -9304,13 +9325,6 @@
           "avatar_url": "https://avatars0.githubusercontent.com/u/65946470?v=4",
           "gravatar_id": "",
           "contributions": 17
-        },
-        {
-          "id": 19783722,
-          "github_url": "https://github.com/shinjonathan",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/19783722?v=4",
-          "gravatar_id": "",
-          "contributions": 16
         },
         {
           "id": 32406811,
@@ -9454,7 +9468,7 @@
           "github_url": "https://github.com/shinjonathan",
           "avatar_url": "https://avatars1.githubusercontent.com/u/19783722?v=4",
           "gravatar_id": "",
-          "contributions": 44
+          "contributions": 47
         },
         {
           "id": 34084181,
@@ -9482,7 +9496,7 @@
           "github_url": "https://github.com/apps/codeclimate",
           "avatar_url": "https://avatars0.githubusercontent.com/in/9403?v=4",
           "gravatar_id": "",
-          "contributions": 20
+          "contributions": 21
         },
         {
           "id": 65946470,
@@ -9860,7 +9874,7 @@
           "github_url": "https://github.com/shinjonathan",
           "avatar_url": "https://avatars1.githubusercontent.com/u/19783722?v=4",
           "gravatar_id": "",
-          "contributions": 28
+          "contributions": 30
         },
         {
           "id": 37763229,
@@ -9987,14 +10001,14 @@
           "github_url": "https://github.com/apps/codeclimate",
           "avatar_url": "https://avatars0.githubusercontent.com/in/9403?v=4",
           "gravatar_id": "",
-          "contributions": 20
+          "contributions": 21
         },
         {
           "id": 19783722,
           "github_url": "https://github.com/shinjonathan",
           "avatar_url": "https://avatars1.githubusercontent.com/u/19783722?v=4",
           "gravatar_id": "",
-          "contributions": 16
+          "contributions": 17
         },
         {
           "id": 34084181,
@@ -10131,7 +10145,7 @@
           "github_url": "https://github.com/shinjonathan",
           "avatar_url": "https://avatars1.githubusercontent.com/u/19783722?v=4",
           "gravatar_id": "",
-          "contributions": 44
+          "contributions": 47
         },
         {
           "id": 5952,
@@ -10152,7 +10166,7 @@
           "github_url": "https://github.com/apps/codeclimate",
           "avatar_url": "https://avatars0.githubusercontent.com/in/9403?v=4",
           "gravatar_id": "",
-          "contributions": 20
+          "contributions": 21
         },
         {
           "id": 34084181,
@@ -10372,7 +10386,7 @@
           "github_url": "https://github.com/NivenPrasad",
           "avatar_url": "https://avatars0.githubusercontent.com/u/61798667?v=4",
           "gravatar_id": "",
-          "contributions": 37
+          "contributions": 38
         },
         {
           "id": 37763229,
@@ -10386,7 +10400,7 @@
           "github_url": "https://github.com/rblaz001",
           "avatar_url": "https://avatars3.githubusercontent.com/u/35281980?v=4",
           "gravatar_id": "",
-          "contributions": 20
+          "contributions": 21
         },
         {
           "id": 18221058,
@@ -10446,14 +10460,14 @@
           "github_url": "https://github.com/NivenPrasad",
           "avatar_url": "https://avatars0.githubusercontent.com/u/61798667?v=4",
           "gravatar_id": "",
-          "contributions": 55
+          "contributions": 56
         },
         {
           "id": 35281980,
           "github_url": "https://github.com/rblaz001",
           "avatar_url": "https://avatars3.githubusercontent.com/u/35281980?v=4",
           "gravatar_id": "",
-          "contributions": 34
+          "contributions": 35
         },
         {
           "id": 4333657,
@@ -10503,8 +10517,8 @@
         "JavaScript",
         "HTML",
         "PLpgSQL",
-        "HCL",
         "Python",
+        "HCL",
         "SCSS",
         "Shell",
         "Dockerfile",
@@ -10522,7 +10536,7 @@
           "github_url": "https://github.com/jmensch1",
           "avatar_url": "https://avatars3.githubusercontent.com/u/9143823?v=4",
           "gravatar_id": "",
-          "contributions": 145
+          "contributions": 147
         },
         {
           "id": 6464919,
@@ -10536,7 +10550,7 @@
           "github_url": "https://github.com/aNullValue",
           "avatar_url": "https://avatars2.githubusercontent.com/u/3424516?v=4",
           "gravatar_id": "",
-          "contributions": 82
+          "contributions": 85
         },
         {
           "id": 47701264,
@@ -10736,6 +10750,13 @@
           "contributions": 2
         },
         {
+          "id": 18221058,
+          "github_url": "https://github.com/KianBadie",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/18221058?v=4",
+          "gravatar_id": "",
+          "contributions": 1
+        },
+        {
           "id": 35116846,
           "github_url": "https://github.com/alexchoiweb",
           "avatar_url": "https://avatars1.githubusercontent.com/u/35116846?v=4",
@@ -10772,7 +10793,7 @@
           "github_url": "https://github.com/jmensch1",
           "avatar_url": "https://avatars3.githubusercontent.com/u/9143823?v=4",
           "gravatar_id": "",
-          "contributions": 150
+          "contributions": 152
         },
         {
           "id": 6464919,
@@ -10786,7 +10807,7 @@
           "github_url": "https://github.com/aNullValue",
           "avatar_url": "https://avatars2.githubusercontent.com/u/3424516?v=4",
           "gravatar_id": "",
-          "contributions": 85
+          "contributions": 88
         },
         {
           "id": 47701264,
@@ -10890,6 +10911,13 @@
           "id": 10876900,
           "github_url": "https://github.com/JRHutson",
           "avatar_url": "https://avatars2.githubusercontent.com/u/10876900?v=4",
+          "gravatar_id": "",
+          "contributions": 1
+        },
+        {
+          "id": 18221058,
+          "github_url": "https://github.com/KianBadie",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/18221058?v=4",
           "gravatar_id": "",
           "contributions": 1
         },
@@ -11031,7 +11059,7 @@
           "github_url": "https://github.com/NivenPrasad",
           "avatar_url": "https://avatars0.githubusercontent.com/u/61798667?v=4",
           "gravatar_id": "",
-          "contributions": 17
+          "contributions": 18
         },
         {
           "id": 37763229,
@@ -11051,6 +11079,13 @@
           "id": 25089562,
           "github_url": "https://github.com/CamilaArias",
           "avatar_url": "https://avatars0.githubusercontent.com/u/25089562?v=4",
+          "gravatar_id": "",
+          "contributions": 1
+        },
+        {
+          "id": 35281980,
+          "github_url": "https://github.com/rblaz001",
+          "avatar_url": "https://avatars3.githubusercontent.com/u/35281980?v=4",
           "gravatar_id": "",
           "contributions": 1
         },
@@ -11084,7 +11119,7 @@
           "github_url": "https://github.com/NivenPrasad",
           "avatar_url": "https://avatars0.githubusercontent.com/u/61798667?v=4",
           "gravatar_id": "",
-          "contributions": 35
+          "contributions": 36
         },
         {
           "id": 37763229,
@@ -11098,7 +11133,7 @@
           "github_url": "https://github.com/rblaz001",
           "avatar_url": "https://avatars3.githubusercontent.com/u/35281980?v=4",
           "gravatar_id": "",
-          "contributions": 14
+          "contributions": 15
         },
         {
           "id": 4333657,
